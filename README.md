@@ -1,1 +1,1 @@
-# CSE-2102-Lab-3
+After you finsih writing the code, enter the port number in the port option and run this in the terminal: "python3 my-server-global-var.py". Then click on the link adress and you will be led to the result of your code.
